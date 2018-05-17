@@ -30,6 +30,7 @@ A self-hosted chat app for small teams or big Gal by [Security Compass][seccom].
 * MIT Licensed
 
 
+
 ## Deployment 
 
 For installation instructions, please use the following links:
